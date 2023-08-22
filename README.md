@@ -18,12 +18,6 @@ A list of language used within the project:
 
 
 ```
-## Installation
-***
-$ git clone https://github.com/dinadendan/TrainingProject
-$ npm install
-$ npm start
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
