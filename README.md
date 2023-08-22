@@ -23,7 +23,6 @@ A list of language used within the project:
 $ git clone https://github.com/dinadendan/TrainingProject
 $ npm install
 $ npm start
-```
 
 ## Contributing
 
